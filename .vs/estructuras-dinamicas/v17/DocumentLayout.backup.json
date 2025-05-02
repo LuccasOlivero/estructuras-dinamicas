@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Estudio\\source\\repos\\estructuras-dinamicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5AF636-C534-4658-B8F9-21A485D11BB6}|estructuras-dinamicas\\estructuras-dinamicas.vbproj|d:\\visual estudio\\source\\repos\\estructuras-dinamicas\\estructuras-dinamicas\\forms\\formpila.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CF5AF636-C534-4658-B8F9-21A485D11BB6}|estructuras-dinamicas\\estructuras-dinamicas.vbproj|solutionrelative:estructuras-dinamicas\\forms\\formpila.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5AF636-C534-4658-B8F9-21A485D11BB6}|estructuras-dinamicas\\estructuras-dinamicas.vbproj|d:\\visual estudio\\source\\repos\\estructuras-dinamicas\\estructuras-dinamicas\\forms\\formpila.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CF5AF636-C534-4658-B8F9-21A485D11BB6}|estructuras-dinamicas\\estructuras-dinamicas.vbproj|solutionrelative:estructuras-dinamicas\\forms\\formpila.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5AF636-C534-4658-B8F9-21A485D11BB6}|estructuras-dinamicas\\estructuras-dinamicas.vbproj|d:\\visual estudio\\source\\repos\\estructuras-dinamicas\\estructuras-dinamicas\\pila\\clspila.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CF5AF636-C534-4658-B8F9-21A485D11BB6}|estructuras-dinamicas\\estructuras-dinamicas.vbproj|solutionrelative:estructuras-dinamicas\\pila\\clspila.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5AF636-C534-4658-B8F9-21A485D11BB6}|estructuras-dinamicas\\estructuras-dinamicas.vbproj|d:\\visual estudio\\source\\repos\\estructuras-dinamicas\\estructuras-dinamicas\\pila\\clsnodo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CF5AF636-C534-4658-B8F9-21A485D11BB6}|estructuras-dinamicas\\estructuras-dinamicas.vbproj|solutionrelative:estructuras-dinamicas\\pila\\clsnodo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5AF636-C534-4658-B8F9-21A485D11BB6}|estructuras-dinamicas\\estructuras-dinamicas.vbproj|d:\\visual estudio\\source\\repos\\estructuras-dinamicas\\estructuras-dinamicas\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CF5AF636-C534-4658-B8F9-21A485D11BB6}|estructuras-dinamicas\\estructuras-dinamicas.vbproj|solutionrelative:estructuras-dinamicas\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsPila.vb",
+              "DocumentMoniker": "D:\\Visual Estudio\\source\\repos\\estructuras-dinamicas\\estructuras-dinamicas\\Pila\\clsPila.vb",
+              "RelativeDocumentMoniker": "estructuras-dinamicas\\Pila\\clsPila.vb",
+              "ToolTip": "D:\\Visual Estudio\\source\\repos\\estructuras-dinamicas\\estructuras-dinamicas\\Pila\\clsPila.vb",
+              "RelativeToolTip": "estructuras-dinamicas\\Pila\\clsPila.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-01T23:14:53.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsNodo.vb",
+              "DocumentMoniker": "D:\\Visual Estudio\\source\\repos\\estructuras-dinamicas\\estructuras-dinamicas\\Pila\\clsNodo.vb",
+              "RelativeDocumentMoniker": "estructuras-dinamicas\\Pila\\clsNodo.vb",
+              "ToolTip": "D:\\Visual Estudio\\source\\repos\\estructuras-dinamicas\\estructuras-dinamicas\\Pila\\clsNodo.vb*",
+              "RelativeToolTip": "estructuras-dinamicas\\Pila\\clsNodo.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-01T23:14:41.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPila.vb",
+              "DocumentMoniker": "D:\\Visual Estudio\\source\\repos\\estructuras-dinamicas\\estructuras-dinamicas\\Forms\\FormPila.vb",
+              "RelativeDocumentMoniker": "estructuras-dinamicas\\Forms\\FormPila.vb",
+              "ToolTip": "D:\\Visual Estudio\\source\\repos\\estructuras-dinamicas\\estructuras-dinamicas\\Forms\\FormPila.vb",
+              "RelativeToolTip": "estructuras-dinamicas\\Forms\\FormPila.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-01T23:12:01.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPila.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Visual Estudio\\source\\repos\\estructuras-dinamicas\\estructuras-dinamicas\\Forms\\FormPila.vb",
+              "RelativeDocumentMoniker": "estructuras-dinamicas\\Forms\\FormPila.vb",
+              "ToolTip": "D:\\Visual Estudio\\source\\repos\\estructuras-dinamicas\\estructuras-dinamicas\\Forms\\FormPila.vb [Dise\u00F1o]",
+              "RelativeToolTip": "estructuras-dinamicas\\Forms\\FormPila.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-01T23:03:46.272Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Visual Estudio\\source\\repos\\estructuras-dinamicas\\estructuras-dinamicas\\Form1.vb",
+              "RelativeDocumentMoniker": "estructuras-dinamicas\\Form1.vb",
+              "ToolTip": "D:\\Visual Estudio\\source\\repos\\estructuras-dinamicas\\estructuras-dinamicas\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "estructuras-dinamicas\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-01T17:32:41.6Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
